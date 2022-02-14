@@ -1,12 +1,4 @@
-//
-//  Direct AR View
-//  Qreal
-//
-//  Created by Can Kocoglu on 10/04/21.
-//  Copyright © 2021 Qreal. All rights reserved.
-//
 
-//AR MODE -IOS
 var mv=  document.getElementById('modelviewer')
 var device = '';
 var userAgent = navigator.userAgent || navigator.vendor || window.opera;
